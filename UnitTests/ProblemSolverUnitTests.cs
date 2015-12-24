@@ -1,8 +1,8 @@
 ﻿using System;
-using ProjectEuler.Domain;
 using NUnit.Framework;
 using Rhino.Mocks;
 using Castle.Windsor;
+using ProjectEuler.Domain;
 
 namespace ProjectEuler.Tests.UnitTests
 {
