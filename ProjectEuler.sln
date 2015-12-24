@@ -3,15 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "ProjectEuler\Domain.csproj", "{8E4BDECF-EAB8-4038-A8EB-F6835A87D128}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests A - Unit Tests", "Unit-Tests\Tests A - Unit Tests.csproj", "{64055507-F31B-46FC-9615-02FBA4C5A2AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests B - Integration Tests", "IntegrationTests\Tests B - Integration Tests.csproj", "{FCE74EEF-C349-4EE3-A746-8DBB7E82C812}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64055507-F31B-46FC-9615-02FBA4C5A2AC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{64055507-F31B-46FC-9615-02FBA4C5A2AC}.Debug|x86.Build.0 = Debug|Any CPU
+		{64055507-F31B-46FC-9615-02FBA4C5A2AC}.Release|x86.ActiveCfg = Release|Any CPU
+		{64055507-F31B-46FC-9615-02FBA4C5A2AC}.Release|x86.Build.0 = Release|Any CPU
 		{8E4BDECF-EAB8-4038-A8EB-F6835A87D128}.Debug|x86.ActiveCfg = Debug|x86
 		{8E4BDECF-EAB8-4038-A8EB-F6835A87D128}.Debug|x86.Build.0 = Debug|x86
 		{8E4BDECF-EAB8-4038-A8EB-F6835A87D128}.Release|x86.ActiveCfg = Release|x86
 		{8E4BDECF-EAB8-4038-A8EB-F6835A87D128}.Release|x86.Build.0 = Release|x86
+		{FCE74EEF-C349-4EE3-A746-8DBB7E82C812}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FCE74EEF-C349-4EE3-A746-8DBB7E82C812}.Debug|x86.Build.0 = Debug|Any CPU
+		{FCE74EEF-C349-4EE3-A746-8DBB7E82C812}.Release|x86.ActiveCfg = Release|Any CPU
+		{FCE74EEF-C349-4EE3-A746-8DBB7E82C812}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
