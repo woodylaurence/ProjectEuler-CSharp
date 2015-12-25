@@ -1,7 +1,8 @@
 ﻿using System;
 using Castle.Windsor;
-using Microsoft.Practices.ServiceLocation;
 using Castle.Windsor.Installer;
+using Microsoft.Practices.ServiceLocation;
+using ProjectEuler.Domain.Problems;
 
 namespace ProjectEuler.Domain
 {

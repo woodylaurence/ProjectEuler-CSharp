@@ -39,7 +39,7 @@ namespace ProjectEuler.Domain
 
 		protected internal virtual int GetSumDigitsSlave(int number)
 		{
-			return Utilities.GetDigits(number).Sum(x => x);
+			return Utilities.GetDigits(number).Sum();
 		}
 
 		#endregion

@@ -55,8 +55,8 @@
     <Compile Include="IProblem.cs" />
     <Compile Include="ProblemSolver.cs" />
     <Compile Include="VisibleTo.cs" />
-    <Compile Include="Problems\Unsolved\Problem1.cs" />
     <Compile Include="Utilities\Utilities.cs" />
+    <Compile Include="Problems\Solved\Problem1.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
