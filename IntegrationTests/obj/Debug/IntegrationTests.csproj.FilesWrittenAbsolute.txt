@@ -1,5 +1,0 @@
-/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/IntegrationTests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/IntegrationTests/bin/Debug/IntegrationTests.dll.mdb
-/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/IntegrationTests/bin/Debug/IntegrationTests.dll
-/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/IntegrationTests/obj/Debug/IntegrationTests.dll
-/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/IntegrationTests/obj/Debug/IntegrationTests.dll.mdb
