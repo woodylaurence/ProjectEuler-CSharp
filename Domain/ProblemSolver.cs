@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 using Castle.Core.Logging;
+using Microsoft.Practices.ServiceLocation;
 
 namespace ProjectEuler.Domain
 {

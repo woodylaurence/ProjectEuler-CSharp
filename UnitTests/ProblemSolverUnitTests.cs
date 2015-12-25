@@ -3,6 +3,7 @@ using NUnit.Framework;
 using Rhino.Mocks;
 using Castle.Windsor;
 using ProjectEuler.Domain;
+using Castle.Windsor.Installer;
 
 namespace ProjectEuler.Tests.UnitTests
 {
@@ -46,7 +47,8 @@ namespace ProjectEuler.Tests.UnitTests
 		public void SolveProblemSlave()
 		{
 			//arrange
-            
+			const string solution = "lkjashdfjasdf";
+			_problem.Expect(x => x.Solve()).Return(solution);
 
 			//act
 			_instance.SolveProblemSlave(_problem);

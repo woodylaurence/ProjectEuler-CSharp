@@ -9,14 +9,16 @@ namespace ProjectEuler.Domain
 	{
 		public static void Main(string[] args)
 		{
-			ProblemSolver.SolveProblem(null);
+//			SetupWindsorContainer();
+			ProblemSolver.SolveProblem(new Problem1() );
 		}
 
 		public static void SetupWindsorContainer()
 		{
-			throw new NotImplementedException ("This does not work, sounds like missing mscorlib dll");
-			//			var container = new WindsorContainer();
-			//			container.Install(Configuration.FromAppConfig());
+			throw new NotImplementedException("Need to work out how this works");
+//			var container = new WindsorContainer();
+//			container.Install(Configuration.FromAppConfig());
+//			ServiceLocator.SetLocatorProvider(() => new WindsorServiceLocator);
 		}
 	}
 }
