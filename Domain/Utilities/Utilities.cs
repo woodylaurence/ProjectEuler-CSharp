@@ -20,7 +20,7 @@ namespace ProjectEuler.Domain
 		protected internal virtual List<int> GetDigitsSlave(long number)
 		{
 			var digits = new List<int>();
-			number = Math.Abs(number);
+			number = System.Math.Abs(number);
 
 			if (number == 0) return  new List<int> { 0 };
 			while (number > 0)

@@ -57,6 +57,10 @@
     <Compile Include="VisibleTo.cs" />
     <Compile Include="Utilities\Utilities.cs" />
     <Compile Include="Problems\Solved\Problem1.cs" />
+    <Compile Include="Utilities\IntExtensionMethods.cs" />
+    <Compile Include="Utilities\Math.cs" />
+    <Compile Include="Problems\Solved\Problem2.cs" />
+    <Compile Include="Problems\Unsolved\Problem3.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>

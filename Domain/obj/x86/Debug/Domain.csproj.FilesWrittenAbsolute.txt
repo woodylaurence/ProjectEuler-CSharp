@@ -1,0 +1,11 @@
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/Domain/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/Domain/bin/Debug/Castle.Core.dll
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/Domain/bin/Debug/Castle.Facilities.FactorySupport.dll
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/Domain/bin/Debug/Castle.Windsor.dll
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/Domain/bin/Debug/Microsoft.Practices.ServiceLocation.dll
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/Domain/bin/Debug/ProjectEuler.Domain.exe.config
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/Domain/bin/Debug/ProjectEuler.Domain.exe.mdb
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/Domain/bin/Debug/ProjectEuler.Domain.exe
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/Domain/obj/x86/Debug/ProjectEuler.Domain.exe
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/Domain/obj/x86/Debug/ProjectEuler.Domain.exe.mdb
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/Domain/bin/Debug/CommonServiceLocator.WindsorAdapter.Unofficial.dll

@@ -1,0 +1,14 @@
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/UnitTests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/UnitTests/obj/Debug/UnitTests.dll
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/UnitTests/obj/Debug/UnitTests.dll.mdb
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/UnitTests/bin/Debug/nunit.framework.dll
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/UnitTests/bin/Debug/Rhino.Mocks.dll
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/UnitTests/bin/Debug/ProjectEuler.Domain.exe
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/UnitTests/bin/Debug/ProjectEuler.Domain.exe.mdb
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/UnitTests/bin/Debug/Castle.Core.dll
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/UnitTests/bin/Debug/Castle.Facilities.FactorySupport.dll
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/UnitTests/bin/Debug/Castle.Windsor.dll
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/UnitTests/bin/Debug/ProjectEuler.Tests.UnitTests.dll.mdb
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/UnitTests/bin/Debug/ProjectEuler.Tests.UnitTests.dll
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/UnitTests/obj/Debug/ProjectEuler.Tests.UnitTests.dll
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/UnitTests/obj/Debug/ProjectEuler.Tests.UnitTests.dll.mdb

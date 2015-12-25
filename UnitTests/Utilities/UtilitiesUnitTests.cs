@@ -37,12 +37,13 @@ namespace ProjectEuler.Tests.UnitTests
 			//arrange
 			const long number = 4;
 			var expected = new List<int> { 4 };
-			Utilities.MethodObject.Stub(x => x.GetDigitsSlave(number)).Return(expected);
+			Utilities.MethodObject.Expect(x => x.GetDigitsSlave(number)).Return(expected);
 
 			//act
 			var actual = Utilities.GetDigits(number);
 
 			//assert
+			Utilities.MethodObject.VerifyAllExpectations();
 			Assert.That(actual, Is.EqualTo(expected));
 		}
 
@@ -56,12 +57,13 @@ namespace ProjectEuler.Tests.UnitTests
 			//arrange
 			const int number = 815;
 			const int expected = 13;
-			Utilities.MethodObject.Stub(x => x.GetSumDigitsSlave(number)).Return(expected);
+			Utilities.MethodObject.Expect(x => x.GetSumDigitsSlave(number)).Return(expected);
 
 			//act
 			var actual = Utilities.GetSumDigits(number);
 
 			//assert
+			Utilities.MethodObject.VerifyAllExpectations();
 			Assert.That(actual, Is.EqualTo(expected));
 		}
 
@@ -92,12 +94,13 @@ namespace ProjectEuler.Tests.UnitTests
 			//arrange
 			const int number = 815;
 			const int expected = 3;
-			Utilities.MethodObject.Stub(x => x.GetNumDigitsSlave(number)).Return(expected);
+			Utilities.MethodObject.Expect(x => x.GetNumDigitsSlave(number)).Return(expected);
 
 			//act
 			var actual = Utilities.GetNumDigits(number);
 
 			//assert
+			Utilities.MethodObject.VerifyAllExpectations();
 			Assert.That(actual, Is.EqualTo(expected));
 		}
 

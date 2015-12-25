@@ -1,0 +1,12 @@
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/IntegrationTests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/IntegrationTests/bin/Debug/ProjectEuler.Tests.IntegrationTests.dll.mdb
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/IntegrationTests/bin/Debug/ProjectEuler.Tests.IntegrationTests.dll
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/IntegrationTests/obj/Debug/ProjectEuler.Tests.IntegrationTests.dll
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/IntegrationTests/obj/Debug/ProjectEuler.Tests.IntegrationTests.dll.mdb
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/IntegrationTests/bin/Debug/Castle.Core.dll
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/IntegrationTests/bin/Debug/Castle.Facilities.FactorySupport.dll
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/IntegrationTests/bin/Debug/Castle.Windsor.dll
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/IntegrationTests/bin/Debug/nunit.framework.dll
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/IntegrationTests/bin/Debug/Rhino.Mocks.dll
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/IntegrationTests/bin/Debug/ProjectEuler.Domain.exe
+/Users/Laurence/Documents/Programming/CSharp/ProjectEuler/IntegrationTests/bin/Debug/ProjectEuler.Domain.exe.mdb

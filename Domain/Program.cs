@@ -11,7 +11,7 @@ namespace ProjectEuler.Domain
 		public static void Main(string[] args)
 		{
 //			SetupWindsorContainer();
-			ProblemSolver.SolveProblem(new Problem1() );
+			ProblemSolver.SolveProblem(new Problem2() );
 		}
 
 		public static void SetupWindsorContainer()

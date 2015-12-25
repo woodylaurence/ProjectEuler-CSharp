@@ -50,6 +50,8 @@
     <Compile Include="ProblemSolverIntegrationTests.cs" />
     <Compile Include="TestObjects\TestProblem.cs" />
     <Compile Include="Utilities\UtilitiesIntegrationTests.cs" />
+    <Compile Include="Utilities\IntExtensionMethodsIntegrationTests.cs" />
+    <Compile Include="Utilities\MathIntegrationTests.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
